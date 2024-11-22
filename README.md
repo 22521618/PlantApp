@@ -25,3 +25,10 @@ Key Features
   -  Watering Frequency: Moderate; avoid waterlogging
   - Lighting: Full sun exposure recommended
   - Soil: Well-drained soil, with monitoring of moisture levels
+
+    ![image](https://github.com/user-attachments/assets/1854c92c-4767-4f1c-be27-1e5adab9f6f9) ![image](https://github.com/user-attachments/assets/813392d8-f2d2-45b2-a7d7-ffb034ff62f2) ![image](https://github.com/user-attachments/assets/b4cc9e2e-ec1a-4ab5-bde8-f84323433d8f) ![image](https://github.com/user-attachments/assets/93a37abd-e967-429d-865c-5c50b1b921b5) ![image](https://github.com/user-attachments/assets/7d4436d7-211b-42e6-81c8-39556791bf64)
+
+
+
+
+
